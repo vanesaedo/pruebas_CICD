@@ -5,7 +5,8 @@ module.exports = {
     browser: true,
     es2020: true,
     node: true,
-    jest: true
+    jest:true
+
   },
   extends: 'eslint:recommended',
   parserOptions: {
