@@ -29,7 +29,7 @@ jobs:
       - name: Lint 🧐
         run: npm run lint:check
 
-      - name: Test 🚨
+      - name: Test! 🚨
         run: npm test
 
       - name: Build 🏗️
